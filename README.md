@@ -5,10 +5,18 @@
  <img src="Img/portada.jpg"
   alt="dashboard" />
 </div>
-Este proyecto analiza un conjunto de datos de estudiantes para explorar la relación entre factores como estrés, actividad física, calidad del sueño y estado emocional con distintos niveles de riesgo para la salud. El objetivo es identificar patrones y posibles correlaciones.
+Estudio sobre la salud estudiantil, investigando la relación entre factores como estrés, sueño, actividad física y estado emocional con el nivel de riesgo para la salud. 
 
 
 ## Descripción del proyecto
+Este proyecto analiza la salud y bienestar de 1000 estudiantes universitarios utilizando un conjunto de datos de Kaggle, con el objetivo de identificar patrones y correlaciones entre diversos factores y el nivel de riesgo para la salud.
+
+Se examinan variables como actividad física, calidad del sueño, estado emocional, niveles de estrés, ritmo cardíaco y presión arterial de estudiantes entre 18 y 24 años.
+
+Tras normalizar los datos se realiza un análisis exploratorio mediante estadísticas descriptivas y visualizaciones que relacionan las variables con la etiqueta objetivo "Riesgo_Salud".
+
+El proyecto culmina con la implementación de un dashboard interactivo que permite explorar patrones clave entre las variables estudiadas.
+
 
 ## Estructura del proyecto
 
@@ -92,7 +100,7 @@ El archivo de datos original consta de varias columnas:
 
 ### 6. Parte
 
-- Análisis descriptivo de las columnas categóricas.
+- Análisis descriptivo de las columnas categóricas y la columna objetivo.
 
 ### 7. Parte
 
