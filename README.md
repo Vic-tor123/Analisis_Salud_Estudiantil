@@ -78,45 +78,26 @@ El archivo de datos original consta de varias columnas:
 
 ## Desarrollo del proyecto
 
-### 1. Parte
+### 1. Parte - Entendimiento general del conjunto de datos y de las columnas.
 
-- Entendimiento general del conjunto de datos y de las columnas.
+### 2. Parte - Establecimiento del tipo de datos, normalización de los datos.
 
-### 2. Parte
+### 3. Parte - Análisis descriptivo de las columnas numéricas.
 
-- Establecimiento del tipo de datos, normalización de los datos.
+### 4. Parte - Análisis descriptivo de las columnas categóricas.
 
-### 3. Parte
+### 5. Parte - Análisis descriptivo de las columnas numéricas y la columna objetivo.
 
-- Análisis descriptivo de las columnas numéricas.
+### 6. Parte - Análisis descriptivo de las columnas categóricas y la columna objetivo.
 
-### 4. Parte
+### 7. Parte - Creación de una nueva columna.
 
-- Análisis descriptivo de las columnas categóricas.
+### 8. Parte - Eleccion de las columnas relevantes para el dashboard.
 
-### 5. Parte
+### 9. Parte - Creación del dashboard.
 
-- Análisis descriptivo de las columnas numéricas y la columna objetivo.
+### 10. Parte - Resúmen y conclusiones.
 
-### 6. Parte
-
-- Análisis descriptivo de las columnas categóricas y la columna objetivo.
-
-### 7. Parte
-
-- Creación de una nueva columna.
-
-### 8. Parte
-
-- Eleccion de las columnas relevantes para el dashboard.
-
-### 9. Parte
-
-- Creación del dashboard.
-
-### 10. Parte
-
-- Resúmen y conclusiones.
 
 
 ## Dashboard
